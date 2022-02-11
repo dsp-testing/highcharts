@@ -92,7 +92,7 @@
     "lolex": "^6.0.0",
     "marked": "^2.0.0",
     "mkdirp": "^1.0.4",
-    "node-sass": "^5.0.0",
+    "node-sass": "^7.0.0",
     "pixelmatch": "^5.2.1",
     "plugin-error": "^1.0.1",
     "pngjs": "^6.0.0",
